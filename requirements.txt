@@ -21,3 +21,4 @@ uvicorn
 jinja2
 python-multipart
 ipykernel
+-e .
